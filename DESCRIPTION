@@ -1,5 +1,5 @@
 Package: MSstatsQCgui
-Version: 1.12.0
+Version: 1.13.0
 Type: Package
 Title: A graphical user interface for MSstatsQC package
 Authors@R: c(
